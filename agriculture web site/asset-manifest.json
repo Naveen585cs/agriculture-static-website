@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/agri_app/static/css/main.4251a17d.css",
+    "main.js": "/agri_app/static/js/main.e3842b75.js",
+    "static/js/787.ea2b5b5c.chunk.js": "/agri_app/static/js/787.ea2b5b5c.chunk.js",
+    "static/media/four1.jpg": "/agri_app/static/media/four1.63038780bcc588fbf641.jpg",
+    "static/media/second2.jpg": "/agri_app/static/media/second2.02fc2475e3b5e97eea23.jpg",
+    "static/media/second1.jpg": "/agri_app/static/media/second1.ef5993ef9b87483189bd.jpg",
+    "static/media/home1.jpg": "/agri_app/static/media/home1.f43fa68ab43e23dd5809.jpg",
+    "static/media/home2.jpg": "/agri_app/static/media/home2.1278f8abcc955f7f52fb.jpg",
+    "static/media/head.jpg": "/agri_app/static/media/head.0c7cf3e4096ff098b009.jpg",
+    "static/media/home3.jpg": "/agri_app/static/media/home3.03a40fbf35a98de0721a.jpg",
+    "index.html": "/agri_app/index.html",
+    "main.4251a17d.css.map": "/agri_app/static/css/main.4251a17d.css.map",
+    "main.e3842b75.js.map": "/agri_app/static/js/main.e3842b75.js.map",
+    "787.ea2b5b5c.chunk.js.map": "/agri_app/static/js/787.ea2b5b5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4251a17d.css",
+    "static/js/main.e3842b75.js"
+  ]
+}
